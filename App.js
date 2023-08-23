@@ -1,11 +1,7 @@
-
-import { Text, View } from 'react-native';
-
+import Main from './Main';
 export default function App() {
   return (
-    <View>
-      <Text>Affluent software innovations</Text>
-    </View>
+   <Main/>
   );
 }
 
